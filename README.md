@@ -19,3 +19,6 @@
 
 
 <img width="628" alt="Screen Shot 2022-06-12 at 11 46 36 PM" src="https://user-images.githubusercontent.com/73037339/173276070-01353abb-95af-48fe-922b-8f8649af9ff7.png">
+
+
+# Screen Castify not working, video to come once issue is resolved!
